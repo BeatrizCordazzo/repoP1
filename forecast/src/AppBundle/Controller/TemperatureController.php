@@ -35,3 +35,4 @@ class TemperatureController extends Controller {
         return new Response($result);
     }
 }
+?>
